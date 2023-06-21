@@ -13,7 +13,7 @@ SpeedyTest is a powerful command-line tool for measuring internet speed. With it
 - 
 ## Installation
 ```
-git clone https://github.com/HalilDeniz/SpeedyTest.git` 
+git clone https://github.com/HalilDeniz/SpeedyTest.git
 ```
 ## Requirements
 
